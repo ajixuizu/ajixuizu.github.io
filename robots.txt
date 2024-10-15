@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /login
+Sitemap: https://ajixuizu.github.io/RpE/sitemap_index.txt.gz
+Sitemap: https://ajixuizu.github.io/YLI/sitemap_index.txt.gz
+Sitemap: https://ajixuizu.github.io/hZx/sitemap_index.txt.gz
+Sitemap: https://ajixuizu.github.io/jIQ/sitemap_index.txt.gz
+Sitemap: https://ajixuizu.github.io/qMt/sitemap_index.txt.gz
+Sitemap: https://ajixuizu.github.io/sitemap/sitemap_index.txt.gz
